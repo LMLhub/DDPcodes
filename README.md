@@ -14,4 +14,4 @@ Figure 6: ddp_us_fr_perc.py
 
 Figure 7: ddp_us_fr_nontrunc.py
 
-The data needed for using the codes is in: http://bit.ly/DDP_fig_data
+All the data files needed for using the codes are in: http://bit.ly/DDP_fig_data
